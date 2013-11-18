@@ -1,0 +1,35 @@
+/* Global */
+
+.container {
+	margin:0 auto;
+	width: 960px;
+	
+}
+
+/*Nav*/
+
+li{
+	float:left;
+	list-style:none;
+	margin: 10px;
+}
+nav{
+	float:left;
+	box-shadow: 0 4px 8px #999999;
+	width: 960px;
+	height: 64px;
+}
+
+a:link,
+a:visited {
+	padding:20px;
+	text-decoration:none;
+	
+}
+
+a:hover, 
+a:active {
+	padding: 28px, 20px, 20px, 20px;
+	background:#999;
+	
+}
